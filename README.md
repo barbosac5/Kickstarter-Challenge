@@ -30,6 +30,8 @@ When looking at the line graph based on the pivot table, the first thing I notic
 According to the Outcomes Based on Goals sheet, one conclusion that can be made is the fact that plays with goals that are set too high can result in the fialure of the campaign itself. We first get  glimpse of the rising failure rate when the goal is from $5,000 to $30,000. For example, plays with campaign goals that are in the $30,000 - $34,999 expereince a failure rate of 73%. For Louise's play _Fever_, she asked for $10,000 and based on the graph, campigns that are around $10,000 have a 45% failure rate which can be risky. There are some discrepancies in the $35,000 - $49,000 goal ranges but it is still a third of the plays that can fail which is not a small percentage. A large example can be seen in plays with a goal of over $50,000 in which out of the 16 campaigns, only two were successful while 14 failed. Another result I noticed was that plays with a smaller crowfunding goal have a much better percentage of success. An example can be seen in plays that had a less than $1,000 goal. The failure rate is at 24% with the success rate being 76% and the same can be said for plays with a range of $1,000 - $4,999 with a success rate of 73% and 27% failure rate. 
 
 -What are some limitations of this dataset?
+(Limitations in terms of scope) Even though this dataset contains a lot of detailed information regarding differnt campaigns, the primary limitations consis of the fact that this data set is very limited in terms of scope. For this project, we were only able to focus on one detail at a time. 
+(Limiatations in terms of time frame)
 
 -What are some other possible tables and/or graphs that we can create?
 
