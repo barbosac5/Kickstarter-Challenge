@@ -42,3 +42,4 @@ Another limitation I found in the dataset is simply the fact that we are unable 
 ### What are some other possible tables and/or graphs that we can create?
 Another way we can look at the data for Outcomes Based on Goals in a clear way is by using a bar chart. We can have the percentages (on the y-axis (like with the line graph) and the goal ranges on the x-axis. Since we have both successful and failed campaigns, there will be two bars standing side by side per goal range. Since we are also looking at three different outcomes (successful, failed and canceled) we can see each outcome color coded. Since there were no canceled plays there is no canceled value in the bar chart. With this type of chart we can see how much each campaign was successful (or failed) by. I have provided a sample of what that can look like below.
 
+![Outcomes Based on Goals (Bar Chart Form)](./Resources/Outcomes_vs._Goals_(Bar_Chart_Form).png)
